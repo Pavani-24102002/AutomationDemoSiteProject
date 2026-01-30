@@ -1,0 +1,321 @@
+[2026-01-16 14:58:52] [INFO] [AlertTestng] - Setting up AlertTestng...
+[2026-01-16 14:58:52] [INFO] [BaseTest] - Initializing test setup...
+[2026-01-16 14:58:52] [INFO] [ConfigReader] - Configuration loaded successfully
+[2026-01-16 14:58:52] [INFO] [DriverFactory] - Initializing driver for browser: chrome
+[2026-01-16 14:59:00] [INFO] [DriverFactory] - Driver initialized and window maximized
+[2026-01-16 14:59:18] [INFO] [BaseTest] - Navigated to URL: http://demo.automationtesting.in/Alerts.html
+[2026-01-16 14:59:18] [INFO] [AlertTestng] - Starting OK Alert test
+[2026-01-16 14:59:18] [INFO] [AlertsPage] - Clicking OK Tab
+[2026-01-16 14:59:19] [INFO] [AlertsPage] - Clicking OK Button
+[2026-01-16 14:59:19] [INFO] [AlertTestng] - OK Alert text captured: I am an alert box!
+[2026-01-16 14:59:21] [INFO] [ExcelUtil] - Writing result - Step: OK Alert, Message: I am an alert box!
+[2026-01-16 14:59:21] [INFO] [AlertTestng] - OK Alert accepted
+[2026-01-16 14:59:21] [INFO] [ScreenshotUtil] - Capturing screenshot: ok_alert
+[2026-01-16 14:59:22] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\ok_alert__20260116_145922.png
+[2026-01-16 14:59:22] [INFO] [AlertTestng] - Starting Confirm Alert test
+[2026-01-16 14:59:22] [INFO] [AlertsPage] - Clicking Confirm Tab
+[2026-01-16 14:59:22] [INFO] [AlertsPage] - Clicking Confirm Button
+[2026-01-16 14:59:22] [INFO] [AlertTestng] - Confirm Alert text captured: Press a Button !
+[2026-01-16 14:59:22] [INFO] [ExcelUtil] - Writing result - Step: Confirm Alert, Message: Press a Button !
+[2026-01-16 14:59:22] [INFO] [AlertTestng] - Confirm Alert dismissed
+[2026-01-16 14:59:22] [INFO] [AlertsPage] - Confirm message: You Pressed Cancel
+[2026-01-16 14:59:22] [INFO] [AlertTestng] - Confirm message captured: You Pressed Cancel
+[2026-01-16 14:59:22] [INFO] [ExcelUtil] - Writing result - Step: Confirm Message, Message: You Pressed Cancel
+[2026-01-16 14:59:22] [INFO] [ScreenshotUtil] - Capturing screenshot: confirm_msg
+[2026-01-16 14:59:23] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\confirm_msg__20260116_145923.png
+[2026-01-16 14:59:23] [INFO] [AlertTestng] - Starting Prompt Alert test
+[2026-01-16 14:59:23] [INFO] [AlertsPage] - Clicking Prompt Tab
+[2026-01-16 14:59:23] [INFO] [AlertsPage] - Clicking Prompt Button
+[2026-01-16 14:59:23] [INFO] [AlertTestng] - Entering name into Prompt Alert: pavani
+[2026-01-16 14:59:23] [INFO] [AlertTestng] - Prompt Alert accepted
+[2026-01-16 14:59:24] [INFO] [AlertsPage] - Prompt message: Hello pavani How are you today
+[2026-01-16 14:59:24] [INFO] [AlertTestng] - Prompt message captured: Hello pavani How are you today
+[2026-01-16 14:59:24] [INFO] [ExcelUtil] - Writing result - Step: Prompt Message, Message: Hello pavani How are you today
+[2026-01-16 14:59:24] [INFO] [ScreenshotUtil] - Capturing screenshot: promptmsg
+[2026-01-16 14:59:24] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\promptmsg__20260116_145924.png
+[2026-01-16 14:59:24] [INFO] [AlertTestng] - Tearing down AlertTestng...
+[2026-01-16 14:59:25] [INFO] [ExcelUtil] - Excel saved to: TestResults.xlsx
+[2026-01-16 14:59:25] [INFO] [BaseTest] - Closing browser...
+[2026-01-16 14:59:25] [INFO] [DriverFactory] - Quitting driver...
+[2026-01-16 20:36:50] [INFO] [AlertTestng] - Setting up AlertTestng...
+[2026-01-16 20:36:50] [INFO] [BaseTest] - Initializing test setup...
+[2026-01-16 20:36:50] [INFO] [ConfigReader] - Configuration loaded successfully
+[2026-01-16 20:36:50] [INFO] [DriverFactory] - Initializing driver for browser: chrome
+[2026-01-16 20:36:55] [INFO] [DriverFactory] - Driver initialized and window maximized
+[2026-01-16 20:37:09] [INFO] [BaseTest] - Navigated to URL: http://demo.automationtesting.in/Alerts.html
+[2026-01-16 20:37:09] [INFO] [AlertTestng] - Starting OK Alert test
+[2026-01-16 20:37:09] [INFO] [AlertsPage] - Clicking OK Tab
+[2026-01-16 20:37:09] [INFO] [AlertsPage] - Clicking OK Button
+[2026-01-16 20:37:09] [INFO] [AlertTestng] - OK Alert text captured: I am an alert box!
+[2026-01-16 20:37:10] [INFO] [ExcelUtil] - Writing result - Step: OK Alert, Message: I am an alert box!
+[2026-01-16 20:37:10] [INFO] [AlertTestng] - OK Alert accepted
+[2026-01-16 20:37:10] [INFO] [ScreenshotUtil] - Capturing screenshot: ok_alert
+[2026-01-16 20:37:10] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\ok_alert__20260116_203710.png
+[2026-01-16 20:37:10] [INFO] [AlertTestng] - Starting Confirm Alert test
+[2026-01-16 20:37:10] [INFO] [AlertsPage] - Clicking Confirm Tab
+[2026-01-16 20:37:11] [INFO] [AlertsPage] - Clicking Confirm Button
+[2026-01-16 20:37:11] [INFO] [AlertTestng] - Confirm Alert text captured: Press a Button !
+[2026-01-16 20:37:11] [INFO] [ExcelUtil] - Writing result - Step: Confirm Alert, Message: Press a Button !
+[2026-01-16 20:37:11] [INFO] [AlertTestng] - Confirm Alert dismissed
+[2026-01-16 20:37:11] [INFO] [AlertsPage] - Confirm message: You Pressed Cancel
+[2026-01-16 20:37:11] [INFO] [AlertTestng] - Confirm message captured: You Pressed Cancel
+[2026-01-16 20:37:11] [INFO] [ExcelUtil] - Writing result - Step: Confirm Message, Message: You Pressed Cancel
+[2026-01-16 20:37:11] [INFO] [ScreenshotUtil] - Capturing screenshot: confirm_msg
+[2026-01-16 20:37:11] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\confirm_msg__20260116_203711.png
+[2026-01-16 20:37:11] [INFO] [AlertTestng] - Starting Prompt Alert test
+[2026-01-16 20:37:11] [INFO] [AlertsPage] - Clicking Prompt Tab
+[2026-01-16 20:37:11] [INFO] [AlertsPage] - Clicking Prompt Button
+[2026-01-16 20:37:11] [INFO] [AlertTestng] - Entering name into Prompt Alert: pavani
+[2026-01-16 20:37:11] [INFO] [AlertTestng] - Prompt Alert accepted
+[2026-01-16 20:37:11] [INFO] [AlertsPage] - Prompt message: Hello pavani How are you today
+[2026-01-16 20:37:11] [INFO] [AlertTestng] - Prompt message captured: Hello pavani How are you today
+[2026-01-16 20:37:11] [INFO] [ExcelUtil] - Writing result - Step: Prompt Message, Message: Hello pavani How are you today
+[2026-01-16 20:37:11] [INFO] [ScreenshotUtil] - Capturing screenshot: promptmsg
+[2026-01-16 20:37:12] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\promptmsg__20260116_203712.png
+[2026-01-16 20:37:12] [INFO] [AlertTestng] - Tearing down AlertTestng...
+[2026-01-16 20:37:12] [INFO] [ExcelUtil] - Excel saved to: TestResults.xlsx
+[2026-01-16 20:37:12] [INFO] [BaseTest] - Closing browser...
+[2026-01-16 20:37:12] [INFO] [DriverFactory] - Quitting driver...
+[2026-01-20 11:30:53] [INFO] [AlertTestng] - Setting up AlertTestng...
+[2026-01-20 11:30:53] [INFO] [BaseTest] - Initializing test setup...
+[2026-01-20 11:30:53] [INFO] [ConfigReader] - Configuration loaded successfully
+[2026-01-20 11:30:54] [INFO] [DriverFactory] - Initializing driver for browser: chrome
+[2026-01-20 11:30:54] [INFO] [AlertTestng] - Setting up AlertTestng...
+[2026-01-20 11:30:54] [INFO] [BaseTest] - Initializing test setup...
+[2026-01-20 11:30:54] [INFO] [ConfigReader] - Configuration loaded successfully
+[2026-01-20 11:30:54] [INFO] [DriverFactory] - Initializing driver for browser: chrome
+[2026-01-20 11:31:00] [INFO] [DriverFactory] - Driver initialized and window maximized
+[2026-01-20 11:31:00] [INFO] [DriverFactory] - Driver initialized and window maximized
+[2026-01-20 11:31:02] [INFO] [BaseTest] - Navigated to URL: http://demo.automationtesting.in/Alerts.html
+[2026-01-20 11:31:03] [INFO] [AlertTestng] - Starting OK Alert test
+[2026-01-20 11:31:03] [INFO] [AlertsPage] - Clicking OK Tab
+[2026-01-20 11:31:03] [INFO] [AlertTestng] - Starting Confirm Alert test
+[2026-01-20 11:31:03] [INFO] [AlertsPage] - Clicking Confirm Tab
+[2026-01-20 11:31:03] [INFO] [AlertTestng] - Starting Prompt Alert test
+[2026-01-20 11:31:03] [INFO] [AlertsPage] - Clicking Prompt Tab
+[2026-01-20 11:31:03] [INFO] [AlertTestng] - Tearing down AlertTestng...
+[2026-01-20 11:31:03] [INFO] [BaseTest] - Navigated to URL: http://demo.automationtesting.in/Alerts.html
+[2026-01-20 11:31:03] [INFO] [AlertTestng] - Starting OK Alert test
+[2026-01-20 11:31:03] [INFO] [AlertsPage] - Clicking OK Tab
+[2026-01-20 11:31:03] [INFO] [AlertTestng] - Starting Confirm Alert test
+[2026-01-20 11:31:03] [INFO] [AlertsPage] - Clicking Confirm Tab
+[2026-01-20 11:31:03] [INFO] [AlertTestng] - Starting Prompt Alert test
+[2026-01-20 11:31:03] [INFO] [AlertsPage] - Clicking Prompt Tab
+[2026-01-20 11:31:03] [INFO] [AlertTestng] - Tearing down AlertTestng...
+[2026-01-20 11:31:05] [INFO] [ExcelUtil] - Excel saved to: TestResults.xlsx
+[2026-01-20 11:31:05] [INFO] [BaseTest] - Closing browser...
+[2026-01-20 11:31:05] [INFO] [DriverFactory] - Quitting driver...
+[2026-01-20 11:31:05] [INFO] [ExcelUtil] - Excel saved to: TestResults.xlsx
+[2026-01-20 11:31:05] [INFO] [BaseTest] - Closing browser...
+[2026-01-20 11:31:05] [INFO] [DriverFactory] - Quitting driver...
+[2026-01-25 12:47:07] [INFO] [AlertTestng] - Setting up AlertTestng...
+[2026-01-25 12:47:07] [INFO] [BaseTest] - Initializing test setup...
+[2026-01-25 12:47:07] [INFO] [ConfigReader] - Configuration loaded successfully
+[2026-01-25 12:47:07] [INFO] [DriverFactory] - Initializing driver for browser: chrome
+[2026-01-25 12:47:14] [INFO] [DriverFactory] - Driver initialized and window maximized
+[2026-01-25 12:47:29] [INFO] [BaseTest] - Navigated to URL: http://demo.automationtesting.in/Alerts.html
+[2026-01-25 12:47:29] [INFO] [AlertTestng] - Starting OK Alert test
+[2026-01-25 12:47:29] [INFO] [AlertsPage] - Clicking OK Tab
+[2026-01-25 12:47:29] [INFO] [AlertsPage] - Clicking OK Button
+[2026-01-25 12:47:29] [INFO] [AlertTestng] - OK Alert text captured: I am an alert box!
+[2026-01-25 12:47:30] [INFO] [ExcelUtil] - Writing result - Step: OK Alert, Message: I am an alert box!
+[2026-01-25 12:47:30] [INFO] [AlertTestng] - OK Alert accepted
+[2026-01-25 12:47:30] [INFO] [ScreenshotUtil] - Capturing screenshot: ok_alert
+[2026-01-25 12:47:30] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\ok_alert__20260125_124730.png
+[2026-01-25 12:47:30] [INFO] [AlertTestng] - Starting Confirm Alert test
+[2026-01-25 12:47:30] [INFO] [AlertsPage] - Clicking Confirm Tab
+[2026-01-25 12:47:31] [INFO] [AlertsPage] - Clicking Confirm Button
+[2026-01-25 12:47:31] [INFO] [AlertTestng] - Confirm Alert text captured: Press a Button !
+[2026-01-25 12:47:31] [INFO] [ExcelUtil] - Writing result - Step: Confirm Alert, Message: Press a Button !
+[2026-01-25 12:47:31] [INFO] [AlertTestng] - Confirm Alert dismissed
+[2026-01-25 12:47:31] [INFO] [AlertsPage] - Confirm message: You Pressed Cancel
+[2026-01-25 12:47:31] [INFO] [AlertTestng] - Confirm message captured: You Pressed Cancel
+[2026-01-25 12:47:31] [INFO] [ExcelUtil] - Writing result - Step: Confirm Message, Message: You Pressed Cancel
+[2026-01-25 12:47:31] [INFO] [ScreenshotUtil] - Capturing screenshot: confirm_msg
+[2026-01-25 12:47:31] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\confirm_msg__20260125_124731.png
+[2026-01-25 12:47:31] [INFO] [AlertTestng] - Starting Prompt Alert test
+[2026-01-25 12:47:31] [INFO] [AlertsPage] - Clicking Prompt Tab
+[2026-01-25 12:47:31] [INFO] [AlertsPage] - Clicking Prompt Button
+[2026-01-25 12:47:31] [INFO] [AlertTestng] - Entering name into Prompt Alert: pavani
+[2026-01-25 12:47:31] [INFO] [AlertTestng] - Prompt Alert accepted
+[2026-01-25 12:47:31] [INFO] [AlertsPage] - Prompt message: Hello pavani How are you today
+[2026-01-25 12:47:31] [INFO] [AlertTestng] - Prompt message captured: Hello pavani How are you today
+[2026-01-25 12:47:31] [INFO] [ExcelUtil] - Writing result - Step: Prompt Message, Message: Hello pavani How are you today
+[2026-01-25 12:47:31] [INFO] [ScreenshotUtil] - Capturing screenshot: promptmsg
+[2026-01-25 12:47:31] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\promptmsg__20260125_124731.png
+[2026-01-25 12:47:31] [INFO] [AlertTestng] - Tearing down AlertTestng...
+[2026-01-25 12:47:32] [INFO] [ExcelUtil] - Excel saved to: TestResults.xlsx
+[2026-01-25 12:47:32] [INFO] [BaseTest] - Closing browser...
+[2026-01-25 12:47:32] [INFO] [DriverFactory] - Quitting driver...
+[2026-01-29 09:55:53] [INFO] [AlertTestng] - Setting up AlertTestng...
+[2026-01-29 09:55:53] [INFO] [BaseTest] - Initializing test setup...
+[2026-01-29 09:55:53] [INFO] [ConfigReader] - Configuration loaded successfully
+[2026-01-29 09:55:53] [INFO] [DriverFactory] - Initializing driver for browser: chrome
+[2026-01-29 09:55:58] [INFO] [DriverFactory] - Driver initialized and window maximized
+[2026-01-29 09:56:08] [INFO] [BaseTest] - Navigated to URL: http://demo.automationtesting.in/Alerts.html
+[2026-01-29 09:56:08] [INFO] [AlertTestng] - Starting OK Alert test
+[2026-01-29 09:56:08] [INFO] [AlertsPage] - Clicking OK Tab
+[2026-01-29 09:56:08] [INFO] [AlertTestng] - Starting Confirm Alert test
+[2026-01-29 09:56:08] [INFO] [AlertsPage] - Clicking Confirm Tab
+[2026-01-29 09:56:12] [INFO] [AlertTestng] - Starting Prompt Alert test
+[2026-01-29 09:56:12] [INFO] [AlertsPage] - Clicking Prompt Tab
+[2026-01-29 09:56:12] [INFO] [AlertTestng] - Tearing down AlertTestng...
+[2026-01-29 09:56:13] [INFO] [ExcelUtil] - Excel saved to: TestResults.xlsx
+[2026-01-29 09:56:13] [INFO] [BaseTest] - Closing browser...
+[2026-01-29 09:56:13] [INFO] [DriverFactory] - Quitting driver...
+[2026-01-29 09:57:48] [INFO] [AlertTestng] - Setting up AlertTestng...
+[2026-01-29 09:57:48] [INFO] [BaseTest] - Initializing test setup...
+[2026-01-29 09:57:48] [INFO] [ConfigReader] - Configuration loaded successfully
+[2026-01-29 09:57:48] [INFO] [DriverFactory] - Initializing driver for browser: chrome
+[2026-01-29 09:57:53] [INFO] [DriverFactory] - Driver initialized and window maximized
+[2026-01-29 09:57:58] [INFO] [BaseTest] - Navigated to URL: http://demo.automationtesting.in/Alerts.html
+[2026-01-29 09:57:58] [INFO] [AlertTestng] - Starting OK Alert test
+[2026-01-29 09:57:58] [INFO] [AlertsPage] - Clicking OK Tab
+[2026-01-29 09:57:58] [INFO] [AlertsPage] - Clicking OK Button
+[2026-01-29 09:57:58] [INFO] [AlertTestng] - OK Alert text captured: I am an alert box!
+[2026-01-29 09:58:01] [INFO] [ExcelUtil] - Writing result - Step: OK Alert, Message: I am an alert box!
+[2026-01-29 09:58:01] [INFO] [AlertTestng] - OK Alert accepted
+[2026-01-29 09:58:01] [INFO] [ScreenshotUtil] - Capturing screenshot: ok_alert
+[2026-01-29 09:58:01] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\ok_alert__20260129_095801.png
+[2026-01-29 09:58:01] [INFO] [AlertTestng] - Starting Confirm Alert test
+[2026-01-29 09:58:01] [INFO] [AlertsPage] - Clicking Confirm Tab
+[2026-01-29 09:58:01] [INFO] [AlertsPage] - Clicking Confirm Button
+[2026-01-29 09:58:02] [INFO] [AlertTestng] - Confirm Alert text captured: Press a Button !
+[2026-01-29 09:58:02] [INFO] [ExcelUtil] - Writing result - Step: Confirm Alert, Message: Press a Button !
+[2026-01-29 09:58:02] [INFO] [AlertTestng] - Confirm Alert dismissed
+[2026-01-29 09:58:02] [INFO] [AlertsPage] - Confirm message: You Pressed Cancel
+[2026-01-29 09:58:02] [INFO] [AlertTestng] - Confirm message captured: You Pressed Cancel
+[2026-01-29 09:58:02] [INFO] [ExcelUtil] - Writing result - Step: Confirm Message, Message: You Pressed Cancel
+[2026-01-29 09:58:02] [INFO] [ScreenshotUtil] - Capturing screenshot: confirm_msg
+[2026-01-29 09:58:02] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\confirm_msg__20260129_095802.png
+[2026-01-29 09:58:02] [INFO] [AlertTestng] - Starting Prompt Alert test
+[2026-01-29 09:58:02] [INFO] [AlertsPage] - Clicking Prompt Tab
+[2026-01-29 09:58:03] [INFO] [AlertsPage] - Clicking Prompt Button
+[2026-01-29 09:58:03] [INFO] [AlertTestng] - Entering name into Prompt Alert: pavani
+[2026-01-29 09:58:03] [INFO] [AlertTestng] - Prompt Alert accepted
+[2026-01-29 09:58:03] [INFO] [AlertsPage] - Prompt message: Hello pavani How are you today
+[2026-01-29 09:58:03] [INFO] [AlertTestng] - Prompt message captured: Hello pavani How are you today
+[2026-01-29 09:58:03] [INFO] [ExcelUtil] - Writing result - Step: Prompt Message, Message: Hello pavani How are you today
+[2026-01-29 09:58:03] [INFO] [ScreenshotUtil] - Capturing screenshot: promptmsg
+[2026-01-29 09:58:03] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\promptmsg__20260129_095803.png
+[2026-01-29 09:58:03] [INFO] [AlertTestng] - Tearing down AlertTestng...
+[2026-01-29 09:58:04] [INFO] [ExcelUtil] - Excel saved to: TestResults.xlsx
+[2026-01-29 09:58:04] [INFO] [BaseTest] - Closing browser...
+[2026-01-29 09:58:04] [INFO] [DriverFactory] - Quitting driver...
+[2026-01-29 23:33:11] [INFO] [AlertTestng] - Setting up AlertTestng...
+[2026-01-29 23:33:11] [INFO] [BaseTest] - Initializing test setup...
+[2026-01-29 23:33:11] [INFO] [ConfigReader] - Configuration loaded successfully
+[2026-01-29 23:33:11] [INFO] [DriverFactory] - Initializing driver for browser: chrome
+[2026-01-29 23:33:17] [INFO] [DriverFactory] - Driver initialized and window maximized
+[2026-01-29 23:33:29] [INFO] [BaseTest] - Navigated to URL: http://demo.automationtesting.in/Alerts.html
+[2026-01-29 23:33:29] [INFO] [AlertTestng] - Starting OK Alert test
+[2026-01-29 23:33:29] [INFO] [AlertsPage] - Clicking OK Tab
+[2026-01-29 23:33:29] [INFO] [AlertsPage] - Clicking OK Button
+[2026-01-29 23:33:30] [INFO] [AlertTestng] - OK Alert text captured: I am an alert box!
+[2026-01-29 23:33:32] [INFO] [ExcelUtil] - Writing result - Step: OK Alert, Message: I am an alert box!
+[2026-01-29 23:33:33] [INFO] [AlertTestng] - OK Alert accepted
+[2026-01-29 23:33:33] [INFO] [ScreenshotUtil] - Capturing screenshot: ok_alert
+[2026-01-29 23:33:33] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\ok_alert__20260129_233333.png
+[2026-01-29 23:33:33] [INFO] [AlertTestng] - Starting Confirm Alert test
+[2026-01-29 23:33:33] [INFO] [AlertsPage] - Clicking Confirm Tab
+[2026-01-29 23:33:34] [INFO] [AlertsPage] - Clicking Confirm Button
+[2026-01-29 23:33:34] [INFO] [AlertTestng] - Confirm Alert text captured: Press a Button !
+[2026-01-29 23:33:34] [INFO] [ExcelUtil] - Writing result - Step: Confirm Alert, Message: Press a Button !
+[2026-01-29 23:33:34] [INFO] [AlertTestng] - Confirm Alert dismissed
+[2026-01-29 23:33:34] [INFO] [AlertsPage] - Confirm message: You Pressed Cancel
+[2026-01-29 23:33:34] [INFO] [AlertTestng] - Confirm message captured: You Pressed Cancel
+[2026-01-29 23:33:34] [INFO] [ExcelUtil] - Writing result - Step: Confirm Message, Message: You Pressed Cancel
+[2026-01-29 23:33:34] [INFO] [ScreenshotUtil] - Capturing screenshot: confirm_msg
+[2026-01-29 23:33:34] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\confirm_msg__20260129_233334.png
+[2026-01-29 23:33:34] [INFO] [AlertTestng] - Starting Prompt Alert test
+[2026-01-29 23:33:34] [INFO] [AlertsPage] - Clicking Prompt Tab
+[2026-01-29 23:33:35] [INFO] [AlertsPage] - Clicking Prompt Button
+[2026-01-29 23:33:35] [INFO] [AlertTestng] - Entering name into Prompt Alert: pavani
+[2026-01-29 23:33:35] [INFO] [AlertTestng] - Prompt Alert accepted
+[2026-01-29 23:33:35] [INFO] [AlertsPage] - Prompt message: Hello pavani How are you today
+[2026-01-29 23:33:35] [INFO] [AlertTestng] - Prompt message captured: Hello pavani How are you today
+[2026-01-29 23:33:35] [INFO] [ExcelUtil] - Writing result - Step: Prompt Message, Message: Hello pavani How are you today
+[2026-01-29 23:33:35] [INFO] [ScreenshotUtil] - Capturing screenshot: promptmsg
+[2026-01-29 23:33:35] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\promptmsg__20260129_233335.png
+[2026-01-29 23:33:35] [INFO] [AlertTestng] - Tearing down AlertTestng...
+[2026-01-29 23:33:36] [INFO] [ExcelUtil] - Excel saved to: TestResults.xlsx
+[2026-01-29 23:33:36] [INFO] [BaseTest] - Closing browser...
+[2026-01-29 23:33:36] [INFO] [DriverFactory] - Quitting driver...
+[2026-01-29 23:48:01] [INFO] [AlertTestng] - Setting up AlertTestng...
+[2026-01-29 23:48:01] [INFO] [BaseTest] - Initializing test setup...
+[2026-01-29 23:48:01] [INFO] [ConfigReader] - Configuration loaded successfully
+[2026-01-29 23:48:01] [INFO] [DriverFactory] - Initializing driver for browser: chrome
+[2026-01-29 23:48:04] [INFO] [DriverFactory] - Driver initialized and window maximized
+[2026-01-29 23:48:11] [INFO] [BaseTest] - Navigated to URL: http://demo.automationtesting.in/Alerts.html
+[2026-01-29 23:48:11] [INFO] [AlertTestng] - Starting OK Alert test
+[2026-01-29 23:48:11] [INFO] [AlertsPage] - Clicking OK Tab
+[2026-01-29 23:48:12] [INFO] [AlertsPage] - Clicking OK Button
+[2026-01-29 23:48:12] [INFO] [AlertTestng] - OK Alert text captured: I am an alert box!
+[2026-01-29 23:48:13] [INFO] [ExcelUtil] - Writing result - Step: OK Alert, Message: I am an alert box!
+[2026-01-29 23:48:13] [INFO] [AlertTestng] - OK Alert accepted
+[2026-01-29 23:48:13] [INFO] [ScreenshotUtil] - Capturing screenshot: ok_alert
+[2026-01-29 23:48:13] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\ok_alert__20260129_234813.png
+[2026-01-29 23:48:13] [INFO] [AlertTestng] - Starting Confirm Alert test
+[2026-01-29 23:48:13] [INFO] [AlertsPage] - Clicking Confirm Tab
+[2026-01-29 23:48:14] [INFO] [AlertsPage] - Clicking Confirm Button
+[2026-01-29 23:48:14] [INFO] [AlertTestng] - Confirm Alert text captured: Press a Button !
+[2026-01-29 23:48:14] [INFO] [ExcelUtil] - Writing result - Step: Confirm Alert, Message: Press a Button !
+[2026-01-29 23:48:14] [INFO] [AlertTestng] - Confirm Alert dismissed
+[2026-01-29 23:48:14] [INFO] [AlertsPage] - Confirm message: You Pressed Cancel
+[2026-01-29 23:48:14] [INFO] [AlertTestng] - Confirm message captured: You Pressed Cancel
+[2026-01-29 23:48:14] [INFO] [ExcelUtil] - Writing result - Step: Confirm Message, Message: You Pressed Cancel
+[2026-01-29 23:48:14] [INFO] [ScreenshotUtil] - Capturing screenshot: confirm_msg
+[2026-01-29 23:48:14] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\confirm_msg__20260129_234814.png
+[2026-01-29 23:48:14] [INFO] [AlertTestng] - Starting Prompt Alert test
+[2026-01-29 23:48:14] [INFO] [AlertsPage] - Clicking Prompt Tab
+[2026-01-29 23:48:14] [INFO] [AlertsPage] - Clicking Prompt Button
+[2026-01-29 23:48:14] [INFO] [AlertTestng] - Entering name into Prompt Alert: pavani
+[2026-01-29 23:48:14] [INFO] [AlertTestng] - Prompt Alert accepted
+[2026-01-29 23:48:15] [INFO] [AlertsPage] - Prompt message: Hello pavani How are you today
+[2026-01-29 23:48:15] [INFO] [AlertTestng] - Prompt message captured: Hello pavani How are you today
+[2026-01-29 23:48:15] [INFO] [ExcelUtil] - Writing result - Step: Prompt Message, Message: Hello pavani How are you today
+[2026-01-29 23:48:15] [INFO] [ScreenshotUtil] - Capturing screenshot: promptmsg
+[2026-01-29 23:48:15] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\promptmsg__20260129_234815.png
+[2026-01-29 23:48:15] [INFO] [AlertTestng] - Tearing down AlertTestng...
+[2026-01-29 23:48:15] [INFO] [ExcelUtil] - Excel saved to: TestResults.xlsx
+[2026-01-29 23:48:15] [INFO] [BaseTest] - Closing browser...
+[2026-01-29 23:48:15] [INFO] [DriverFactory] - Quitting driver...
+[2026-01-29 23:49:34] [INFO] [AlertTestng] - Setting up AlertTestng...
+[2026-01-29 23:49:34] [INFO] [BaseTest] - Initializing test setup...
+[2026-01-29 23:49:34] [INFO] [ConfigReader] - Configuration loaded successfully
+[2026-01-29 23:49:34] [INFO] [DriverFactory] - Initializing driver for browser: chrome
+[2026-01-29 23:49:38] [INFO] [DriverFactory] - Driver initialized and window maximized
+[2026-01-29 23:49:45] [INFO] [BaseTest] - Navigated to URL: http://demo.automationtesting.in/Alerts.html
+[2026-01-29 23:49:45] [INFO] [AlertTestng] - Starting OK Alert test
+[2026-01-29 23:49:45] [INFO] [AlertsPage] - Clicking OK Tab
+[2026-01-29 23:49:46] [INFO] [AlertsPage] - Clicking OK Button
+[2026-01-29 23:49:46] [INFO] [AlertTestng] - OK Alert text captured: I am an alert box!
+[2026-01-29 23:49:47] [INFO] [ExcelUtil] - Writing result - Step: OK Alert, Message: I am an alert box!
+[2026-01-29 23:49:47] [INFO] [AlertTestng] - OK Alert accepted
+[2026-01-29 23:49:47] [INFO] [ScreenshotUtil] - Capturing screenshot: ok_alert
+[2026-01-29 23:49:47] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\ok_alert__20260129_234947.png
+[2026-01-29 23:49:47] [INFO] [AlertTestng] - Starting Confirm Alert test
+[2026-01-29 23:49:47] [INFO] [AlertsPage] - Clicking Confirm Tab
+[2026-01-29 23:49:47] [INFO] [AlertsPage] - Clicking Confirm Button
+[2026-01-29 23:49:48] [INFO] [AlertTestng] - Confirm Alert text captured: Press a Button !
+[2026-01-29 23:49:48] [INFO] [ExcelUtil] - Writing result - Step: Confirm Alert, Message: Press a Button !
+[2026-01-29 23:49:48] [INFO] [AlertTestng] - Confirm Alert dismissed
+[2026-01-29 23:49:48] [INFO] [AlertsPage] - Confirm message: You Pressed Cancel
+[2026-01-29 23:49:48] [INFO] [AlertTestng] - Confirm message captured: You Pressed Cancel
+[2026-01-29 23:49:48] [INFO] [ExcelUtil] - Writing result - Step: Confirm Message, Message: You Pressed Cancel
+[2026-01-29 23:49:48] [INFO] [ScreenshotUtil] - Capturing screenshot: confirm_msg
+[2026-01-29 23:49:48] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\confirm_msg__20260129_234948.png
+[2026-01-29 23:49:48] [INFO] [AlertTestng] - Starting Prompt Alert test
+[2026-01-29 23:49:48] [INFO] [AlertsPage] - Clicking Prompt Tab
+[2026-01-29 23:49:48] [INFO] [AlertsPage] - Clicking Prompt Button
+[2026-01-29 23:49:48] [INFO] [AlertTestng] - Entering name into Prompt Alert: pavani
+[2026-01-29 23:49:48] [INFO] [AlertTestng] - Prompt Alert accepted
+[2026-01-29 23:49:48] [INFO] [AlertsPage] - Prompt message: Hello pavani How are you today
+[2026-01-29 23:49:48] [INFO] [AlertTestng] - Prompt message captured: Hello pavani How are you today
+[2026-01-29 23:49:48] [INFO] [ExcelUtil] - Writing result - Step: Prompt Message, Message: Hello pavani How are you today
+[2026-01-29 23:49:48] [INFO] [ScreenshotUtil] - Capturing screenshot: promptmsg
+[2026-01-29 23:49:48] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\promptmsg__20260129_234948.png
+[2026-01-29 23:49:48] [INFO] [AlertTestng] - Tearing down AlertTestng...
+[2026-01-29 23:49:49] [INFO] [ExcelUtil] - Excel saved to: TestResults.xlsx
+[2026-01-29 23:49:49] [INFO] [BaseTest] - Closing browser...
+[2026-01-29 23:49:49] [INFO] [DriverFactory] - Quitting driver...

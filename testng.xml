@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite thread-count="1" parallel="classes" name="Suite">
+  <test thread-count="1" parallel="classes" name="Test">
+    <classes>
+      <class name="com.AutomationDemosite.tests.AlertTestng"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

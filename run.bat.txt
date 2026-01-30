@@ -1,0 +1,2 @@
+cd C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject
+mvn test
