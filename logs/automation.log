@@ -37,3 +37,58 @@
 [2026-01-30 11:57:26] [INFO] [ExcelUtil] - Excel saved to: TestResults.xlsx
 [2026-01-30 11:57:26] [INFO] [BaseTest] - Closing browser...
 [2026-01-30 11:57:26] [INFO] [DriverFactory] - Quitting driver...
+[2026-01-30 16:44:34] [INFO] [AlertTestng] - Setting up AlertTestng...
+[2026-01-30 16:44:34] [INFO] [BaseTest] - Initializing test setup...
+[2026-01-30 16:44:34] [INFO] [ConfigReader] - Configuration loaded successfully
+[2026-01-30 16:44:34] [INFO] [DriverFactory] - Initializing driver for browser: chrome
+[2026-01-30 16:44:40] [INFO] [DriverFactory] - Driver initialized and window maximized
+[2026-01-30 16:44:46] [INFO] [BaseTest] - Navigated to URL: http://demo.automationtesting.in/Alerts.html
+[2026-01-30 16:44:47] [INFO] [AlertTestng] - Starting OK Alert test
+[2026-01-30 16:44:47] [INFO] [AlertsPage] - Clicking OK Tab
+[2026-01-30 16:44:47] [INFO] [AlertsPage] - Clicking OK Button
+[2026-01-30 16:44:47] [INFO] [AlertTestng] - OK Alert text captured: I am an alert box!
+[2026-01-30 16:44:50] [INFO] [ExcelUtil] - Writing result - Step: OK Alert, Message: I am an alert box!
+[2026-01-30 16:44:50] [INFO] [AlertTestng] - OK Alert accepted
+[2026-01-30 16:44:50] [INFO] [ScreenshotUtil] - Capturing screenshot: ok_alert
+[2026-01-30 16:44:50] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\ok_alert__20260130_164450.png
+[2026-01-30 16:44:50] [INFO] [AlertTestng] - Starting Confirm Alert test
+[2026-01-30 16:44:50] [INFO] [AlertsPage] - Clicking Confirm Tab
+[2026-01-30 16:44:50] [INFO] [AlertsPage] - Clicking Confirm Button
+[2026-01-30 16:44:51] [INFO] [AlertTestng] - Confirm Alert text captured: Press a Button !
+[2026-01-30 16:44:51] [INFO] [ExcelUtil] - Writing result - Step: Confirm Alert, Message: Press a Button !
+[2026-01-30 16:44:51] [INFO] [AlertTestng] - Confirm Alert dismissed
+[2026-01-30 16:44:51] [INFO] [AlertsPage] - Confirm message: You Pressed Cancel
+[2026-01-30 16:44:51] [INFO] [AlertTestng] - Confirm message captured: You Pressed Cancel
+[2026-01-30 16:44:51] [INFO] [ExcelUtil] - Writing result - Step: Confirm Message, Message: You Pressed Cancel
+[2026-01-30 16:44:51] [INFO] [ScreenshotUtil] - Capturing screenshot: confirm_msg
+[2026-01-30 16:44:51] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\confirm_msg__20260130_164451.png
+[2026-01-30 16:44:51] [INFO] [AlertTestng] - Starting Prompt Alert test
+[2026-01-30 16:44:51] [INFO] [AlertsPage] - Clicking Prompt Tab
+[2026-01-30 16:44:51] [INFO] [AlertsPage] - Clicking Prompt Button
+[2026-01-30 16:44:52] [INFO] [AlertTestng] - Entering name into Prompt Alert: pavani
+[2026-01-30 16:44:52] [INFO] [AlertTestng] - Prompt Alert accepted
+[2026-01-30 16:44:52] [INFO] [AlertsPage] - Prompt message: Hello pavani How are you today
+[2026-01-30 16:44:52] [INFO] [AlertTestng] - Prompt message captured: Hello pavani How are you today
+[2026-01-30 16:44:52] [INFO] [ExcelUtil] - Writing result - Step: Prompt Message, Message: Hello pavani How are you today
+[2026-01-30 16:44:52] [INFO] [ScreenshotUtil] - Capturing screenshot: promptmsg
+[2026-01-30 16:44:52] [INFO] [ScreenshotUtil] - Screenshot saved: C:\Users\2457222\eclipse-workspace\AutomationDemoSiteProject\screenshots\promptmsg__20260130_164452.png
+[2026-01-30 16:44:52] [INFO] [AlertTestng] - Tearing down AlertTestng...
+[2026-01-30 16:44:53] [INFO] [ExcelUtil] - Excel saved to: TestResults.xlsx
+[2026-01-30 16:44:53] [INFO] [BaseTest] - Closing browser...
+[2026-01-30 16:44:53] [INFO] [DriverFactory] - Quitting driver...
+[2026-01-30 17:36:01] [INFO] [AlertTestng] - Setting up AlertTestng...
+[2026-01-30 17:36:01] [INFO] [BaseTest] - Initializing test setup...
+[2026-01-30 17:36:01] [INFO] [ConfigReader] - Configuration loaded successfully
+[2026-01-30 17:36:01] [INFO] [DriverFactory] - Initializing driver for browser: chrome
+[2026-01-30 17:36:05] [INFO] [DriverFactory] - Driver initialized and window maximized
+[2026-01-30 17:36:06] [INFO] [BaseTest] - Navigated to URL: http://demo.automationtesting.in/Alerts.html
+[2026-01-30 17:36:06] [INFO] [AlertTestng] - Starting OK Alert test
+[2026-01-30 17:36:06] [INFO] [AlertsPage] - Clicking OK Tab
+[2026-01-30 17:36:06] [INFO] [AlertTestng] - Starting Confirm Alert test
+[2026-01-30 17:36:06] [INFO] [AlertsPage] - Clicking Confirm Tab
+[2026-01-30 17:36:06] [INFO] [AlertTestng] - Starting Prompt Alert test
+[2026-01-30 17:36:06] [INFO] [AlertsPage] - Clicking Prompt Tab
+[2026-01-30 17:36:06] [INFO] [AlertTestng] - Tearing down AlertTestng...
+[2026-01-30 17:36:07] [INFO] [ExcelUtil] - Excel saved to: TestResults.xlsx
+[2026-01-30 17:36:07] [INFO] [BaseTest] - Closing browser...
+[2026-01-30 17:36:07] [INFO] [DriverFactory] - Quitting driver...
